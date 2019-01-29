@@ -27,6 +27,9 @@
   "bugs": {
     "url": "https://github.com/kadoshms/ionic2-autocomplete/issues"
   },
+  "peerDependencies": {
+    "@angular/core": "^7.0 || ^6.0 || ^5.0 || ^4.0 || ^2.0"
+  },
   "devDependencies": {
     "@angular/common": "4.1.0",
     "@angular/compiler": "4.1.0",
